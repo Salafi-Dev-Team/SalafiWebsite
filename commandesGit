@@ -4,7 +4,7 @@
 
 - git init : Créer un nouveau dépôt GIT
 
-- git add element : Peut être utilisé pour ajouter des fichiers à l'index
+- git add nom_element/. : Peut être utilisé pour ajouter des fichiers à l'index
 
 - git clone : Utilisé pour cloner en local le dépôt distant ou pour la vérification d'existence de dépôt
  
@@ -24,7 +24,7 @@
 
 - git branch -d nom_branche : Supprimer branche cible
 
-- git pull : Fusionner les modifications du dépôt distant dans le répertoire local
+- git pull lien_depot_istant: Fusionner les modifications du dépôt distant dans le répertoire local
 
 - git merge nom_branche : Pour fusionner la branche cible dans la branche active
 
