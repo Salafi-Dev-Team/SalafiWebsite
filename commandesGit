@@ -1,0 +1,41 @@
+*-------*Commandes GIT*-------*
+
+- git config --global user.email adressemail@mail.extension : Configuration des préférences de l'utilisateur
+
+- git init : Créer un nouveau dépôt GIT
+
+- git add nom_element/. : Peut être utilisé pour ajouter des fichiers à l'index
+
+- git clone : Utilisé pour cloner en local le dépôt distant ou pour la vérification d'existence de dépôt
+ 
+- git commit -m "message" : Permet de valider des modifications apportées à la branche
+
+- git status : Affiche la liste des fichiers modifiés ainsi que les fichiers qui doivent encore être ajoutés ou validés
+
+- git push origin master : Envoie les modifications locales apportées à la branche principale associée
+
+- git checkout nom_branche : Permet de passer d'une branche à une autre
+
+- git remote -v : Permet de repertorier les dêpôts distants actuellements configurés
+
+- git remote add origin adresse_dépôt : Permet de connecter l'utilisateur à un serveur distant
+
+- git branch : Pour lister les branches existantes
+
+- git branch -d nom_branche : Supprimer branche cible
+
+- git pull lien_depot_istant: Fusionner les modifications du dépôt distant dans le répertoire local
+
+- git merge nom_branche : Pour fusionner la branche cible dans la branche active
+
+- git diff --base nom_fichier : Voir les conflits d'un fichier
+
+- git diff branche_source branche_cible : Voir conflits entre deux branches avant de les fusionner
+
+- git diff : Pour énumérer tous les conflits
+
+- git reset : Pour réinitialiser l'index à l'état du dernier commit
+
+- git stash : Enregistrer une modification qui ne doit pas être commit immédiatement (commit temporaire)
+
+ 
