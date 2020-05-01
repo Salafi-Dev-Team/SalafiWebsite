@@ -3899,6 +3899,6 @@ Classic Layout
 	background-color: #252730;
 }
 
-.ai-audioigniter .ai-audio-control, .ai-wrap .ai-track-progress, .ai-wrap .ai-volume-bar.ai-volume-bar-active::before, .ai-wrap .ai-track:hover, .ai-wrap .ai-track.ai-track-active, .ai-wrap .ai-btn:hover, .ai-wrap .ai-btn:hover {
+.ai-audioigniter .ai-audio-control, .ai-wrap .ai-track-progress, .ai-wrap .ai-volume-bar.ai-volume-bar-active::before, .ai-wrap .ai-track:hover, .ai-wrap .ai-track.ai-track-active, .ai-wrap .ai-btn:hover, .ai-wrap .ai-btn:hover, .ai-wrap .ai-btn:hover, .ai-wrap .ai-btn:hover {
 	background-color: #1d7700;
 }

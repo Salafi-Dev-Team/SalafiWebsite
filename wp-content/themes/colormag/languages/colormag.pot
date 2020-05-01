@@ -951,7 +951,7 @@ msgstr ""
 
 #: inc/functions.php:596
 msgid "Latest:"
-msgstr ""
+msgstr "Test"
 
 #: inc/functions.php:658
 msgid "View a random post"
